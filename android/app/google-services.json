@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342575262405",
+    "project_id": "hitchify-b9175",
+    "storage_bucket": "hitchify-b9175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342575262405:android:8bbcea3d6ac022e2e8deac",
+        "android_client_info": {
+          "package_name": "com.hitchify.hitchify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGPxhP4sUpNrLM7RL9tfytHt03mhIFQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
